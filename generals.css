@@ -1,0 +1,59 @@
+.reputable {
+    width: 103px;
+    height: 43px;
+    justify-content: space-around;
+    object-fit: contain;
+}
+
+.companies-statement {
+    width: 1000px;
+}
+
+.baby-yoda {
+    text-align: center;
+    color: rgb(126, 231, 126);
+    
+}
+
+.spiderman {
+    height: 500px;
+    width: 500px;
+    object-fit: contain;
+    float: left;
+}
+
+.spider-text {
+    text-align: center;
+    color: red;
+}
+
+.goku {
+    color: gold;
+    
+}
+
+.piccolo {
+    height: 500px;
+    width: 500px;
+    object-fit: contain;
+    float: left;
+}
+
+.piccolo-text {
+    text-align: center;
+    color: rgb(252, 178, 190);
+}
+
+.kobe {
+    object-position: center;
+}
+
+.kobe-text {
+    text-align: center;
+    color: rgb(218, 19, 218);
+}
+
+.last-message {
+    text-align: center;
+    width: 500px;
+}
